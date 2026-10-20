@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica 2.3</string>
+    <string name="materia">Développement d\'applications mobiles</string>
+    <string name="nombre">Arturo</string>
+    <string name="apellido">Cruz</string>
+    <string name="home_screen">Écran d\'accueil</string>
+    <string name="back_btn_desc">Bouton retour</string>
+    <string name="bottom_app_bar">Barre de navigation inférieure</string>
+    <string name="snackbar_msg">Vous avez cliqué sur le FAB</string>
+    <string name="snackbar_action">Annuler</string>
+    <string name="home_fab_text">Bouton flottant</string>
+</resources>

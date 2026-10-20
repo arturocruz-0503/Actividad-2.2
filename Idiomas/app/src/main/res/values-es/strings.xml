@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Idiomas</string>
+    <string name="materia">Desarrollo de Aplicaciones Móviles</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="home_screen">Pantalla Principal</string>
+    <string name="back_btn_desc">Botón Regresar</string>
+    <string name="bottom_app_bar">Barra de Navegación Inferior</string>
+    <string name="snackbar_msg">Has hecho clic en el FAB</string>
+    <string name="snackbar_action">Deshacer</string>
+    <string name="home_fab_text">Botón Flotante</string>
+</resources>

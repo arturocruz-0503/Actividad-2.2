@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica 2.3</string>
+    <string name="materia">Mobile Application Development</string>
+    <string name="nombre">Arturo</string>
+    <string name="apellido">Cruz</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="back_btn_desc">Back Button</string>
+    <string name="bottom_app_bar">Bottom Navigation Bar</string>
+    <string name="snackbar_msg">You clicked the FAB</string>
+    <string name="snackbar_action">Undo</string>
+    <string name="home_fab_text">Floating Button</string>
+</resources>
